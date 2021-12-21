@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Smith",
+    "positions": [
+      {
+        "title": "Accountant",
+        "from": "2014-10-12",
+        "to": "2017-02-10"
+      },
+      {
+        "title": "Main Accountant",
+        "from": "2017-04-22",
+        "to": "2018-12-10"
+      },
+      {
+        "title": "Lead Accountant",
+        "from": "2019-01-05",
+        "to": null
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Maria Brown",
+    "positions": [
+      {
+        "title": "HR Manager",
+        "from": "2015-01-01",
+        "to": "2017-05-14"
+      },
+      {
+        "title": "Office Manager",
+        "from": "2017-07-20",
+        "to": "2019-03-21"
+      },
+      {
+        "title": "Lead Office Manager",
+        "from": "2019-03-22",
+        "to": "2020-04-21"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "John Doe",
+    "positions": [
+      {
+        "title": "Security Officer",
+        "from": "2015-10-12",
+        "to": null
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Jessica Brown",
+    "positions": [
+      {
+        "title": "Junior Frontend Developer",
+        "from": "2016-01-09",
+        "to": "2016-09-14"
+      },
+      {
+        "title": "Middle Frontend Developer",
+        "from": "2016-09-15",
+        "to": "2017-08-22"
+      },
+      {
+        "title": "Middle Frontend Developer",
+        "from": "2020-08-22",
+        "to": null
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Martin Stark",
+    "positions": [
+      {
+        "title": "System Administrator",
+        "from": "2014-01-04",
+        "to": "2016-01-14"
+      },
+      {
+        "title": "Security Administrator",
+        "from": "2016-09-12",
+        "to": "2018-01-17"
+      },
+      {
+        "title": "System Administrator",
+        "from": "2020-04-14",
+        "to": null
+      }
+    ]
+  }
+]
+
+
+// Table of all employees and their total work days, sorted from longest to shortest
+// Output: Array<{name: string, totalWorkDays: number}>
+GetWorkdaysSum()
+{
+
+}
